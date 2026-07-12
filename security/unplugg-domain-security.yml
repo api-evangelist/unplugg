@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: unplu.gg
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 31 21:06:40 2026 GMT
+  hsts: false
+domains:
+- domain: unplu.gg
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false

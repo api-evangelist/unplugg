@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://unplu.gg/test_api.html
 common:
+  - type: DomainSecurity
+    url: security/unplugg-domain-security.yml
   - type: Website
     url: https://unplu.gg/test_api.html
   - type: PublicAPIsListing
