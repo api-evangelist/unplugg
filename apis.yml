@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/unplugg.pn
 name: Unplugg
 description: "Forecasting API for timeseries data"
 url: https://unplu.gg/test_api.html
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
