@@ -22,6 +22,9 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Machine-Learning
+  - Public APIs
+tags_raw:
   - Machine Learning
   - Public APIs
 apis:
@@ -30,6 +33,8 @@ apis:
     humanURL: https://unplu.gg/test_api.html
     baseURL: https://unplu.gg/test_api.html
     tags:
+      - Machine-Learning
+    tags_raw:
       - Machine Learning
     properties:
       - type: Documentation
