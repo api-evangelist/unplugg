@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: Unplugg
     description: "Forecasting API for timeseries data"
     humanURL: https://unplu.gg/test_api.html
-    baseURL: https://unplu.gg/test_api.html
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://unplu.gg/test_api.html
